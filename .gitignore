@@ -1,0 +1,13 @@
+/bin/
+/dist/
+/scrcpy/
+/.downloads/
+/TestResults/
+*.user
+*.log
+status.json
+restore.json
+*.p12
+*.pfx
+*.key
+adbkey*
